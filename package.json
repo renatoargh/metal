@@ -1,0 +1,29 @@
+{
+  "name": "metal",
+  "version": "0.0.1",
+  "description": "Non official metal archives API",
+  "main": "metal.js",
+  "scripts": {
+    "test": "grunt test --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renatoargh/metal.git"
+  },
+  "keywords": [
+    "metal-archives",
+    "metal"
+  ],
+  "author": "Renato Gama <renatoargh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatoargh/metal/issues"
+  },
+  "homepage": "https://github.com/renatoargh/metal",
+  "dependencies": {
+    "request": "~2.34.0",
+    "gammautils": "0.0.27",
+    "jquery": "~2.1.0",
+    "jsdom": "~0.10.1"
+  }
+}

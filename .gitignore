@@ -6,10 +6,16 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.DS_Store
 
 pids
 logs
 results
 
 npm-debug.log
+.settings
+.project
+.c9revisions
 node_modules
+npm-debug.log
+env.js 
